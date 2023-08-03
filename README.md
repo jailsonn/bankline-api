@@ -1,12 +1,14 @@
-# Read Me First
-The following was discovered as part of building this project:
+# Leia-me primeiro
 
-* The original package name 'com.dio.santander.bankline-api' is invalid and this project uses 'com.dio.santander.banklineapi' instead.
+Back End  - API REST – 
+TECNOLOGIAS UTILIZADAS – 
+* Java
+* Spring Boot
+* Maven
+* JPA, JWT
+* Postgre SQL
+santander.bankline-api
 
-# Getting Started
-
-### Reference Documentation
-For further reference, please consider the following sections:
 
 * [Official Apache Maven documentation](https://maven.apache.org/guides/index.html)
 * [Spring Boot Maven Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.6.7/maven-plugin/reference/html/)
